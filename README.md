@@ -1,2 +1,0 @@
-# DemoStoreWebsite
-ecommerce training
